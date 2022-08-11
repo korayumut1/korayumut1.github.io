@@ -30,3 +30,12 @@ body{
   width: 100%;
   height: 100%;
 }
+.picture {
+  background-color: bisque;
+}
+.pic {
+  padding: 10px;
+}
+.pic:hover {
+  background-color: rgba(235, 234, 232, 0.979);
+}
