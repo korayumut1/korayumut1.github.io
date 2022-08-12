@@ -39,3 +39,7 @@ body{
 .pic:hover {
   background-color: rgba(235, 234, 232, 0.979);
 }
+.iletisim {
+  padding-bottom: 10px;
+  padding-top: 5px;
+}
